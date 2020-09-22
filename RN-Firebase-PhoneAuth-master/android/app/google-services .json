@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716064823764",
+    "firebase_url": "https://woowend-2969f.firebaseio.com",
+    "project_id": "woowend-2969f",
+    "storage_bucket": "woowend-2969f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716064823764:android:e39c2e12630e33347d5e41",
+        "android_client_info": {
+          "package_name": "kom.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716064823764-ltbijhud2jotl98og2hmrah2d0j6ipvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6A4Lbc1d9Xtafzt8qEo9CrERAgp-VLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716064823764-ltbijhud2jotl98og2hmrah2d0j6ipvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
